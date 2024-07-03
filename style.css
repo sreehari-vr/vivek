@@ -1,15 +1,4 @@
-h4 {
-    color: black;
-    font-family: "Arial";
-    font-size: 3em;
-    margin: 10px 0 0 10px;
-    white-space: nowrap;
-    overflow: hidden;
-    width: 100%;
-    animation: animtext 6s steps(80, end) infinite; /* Extended the duration to include delay */
-    transition: all cubic-bezier(0.1, 0.7, 1.0, 0.1);
-    text-shadow: 3px 3px 6px rgba(131, 122, 122, 0.4);
-}
+
 .main{
     text-shadow: 3px 3px 6px rgba(59, 56, 56, 0.4);
 }
